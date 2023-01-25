@@ -1,0 +1,13 @@
+# —————————————————————
+# Hannibal-LaGrange University
+# CSC 203 - Program Logic & Design
+# Spring 2023
+# Instructor: Mr. Hammontree
+#
+# Student: White, Brandon
+# Student ID: A0000203773
+# Student Email: brandon.white.12@student.hlg.edu
+#
+# Assignment: ID_OF_ASSIGNMENT
+# Date: MM-DD-YYYY of Date Turned In
+# —————————————————————
